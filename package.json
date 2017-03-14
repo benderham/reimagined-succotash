@@ -1,0 +1,11 @@
+{
+  "name": "reimagined-succotash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benderham/reimagined-succotash.git",
+  "author": "Ben Derham <ben@benderham.com>",
+  "license": "MIT",
+  "dependencies": {
+    "get-image-colors": "^1.8.1"
+  }
+}
